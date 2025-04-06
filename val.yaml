@@ -1,0 +1,8 @@
+train: D:\tanzaia\tanzania\test.txt
+val: D:\tanzaia\tanzania\test.txt
+test: D:\tanzaia\tanzania\test.txt
+
+names:
+  0: BIC
+  1: SIZE
+  2: plate_number

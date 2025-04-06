@@ -1,0 +1,6 @@
+[submodule "MMOCR"]
+	path = MMOCR
+	url = https://github.com/open-mmlab/mmocr.git
+[submodule "Ultralytics"]
+	path = Ultralytics
+	url = https://github.com/ultralytics/ultralytics.git
